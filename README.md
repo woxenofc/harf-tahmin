@@ -13,8 +13,7 @@ Bir kelimenin geçerli sayılması için şu 5 şartı sağlaması gerekir:
 2.  **Harf Dizilimi:** Kelime içinde peşpeşe iki sesli harf veya peşpeşe iki sessiz harf bulunamaz.
 3.  **Karakter Kontrolü:** Kelime sadece harflerden oluşmalıdır (Rakam veya sembol içeremez).
 4.  **Son Harf Kuralı:** Yeni girilen kelime, bir önceki geçerli kelimenin **son harfi** ile başlamalıdır.
-5.  **Tek/Çift Kuralı:** * Önceki kelimenin uzunluğu **çift** ise, yeni kelime **tek** uzunlukta olmalıdır.
-    * Önceki kelimenin uzunluğu **tek** ise, yeni kelime **çift** uzunlukta olmalıdır.
+5.  **Tek/Çift Kuralı:** Önceki kelimenin uzunluğu **çift** ise, yeni kelime **tek** uzunlukta olmalıdır, aynı şekilde tek ise yeni kelime çift olmalıdır.
 
 ## 🚀 Kurulum ve Çalıştırma
 
