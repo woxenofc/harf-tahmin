@@ -21,12 +21,12 @@ Bir kelimenin geçerli sayılması için şu 5 şartı sağlaması gerekir:
 Sisteminizde **Python +3.x** bulunması ve **PyQt5** kütüphanesinin yüklü olması gerekir.
 
 
-2.  **Kütüphaneyi yükleme:**
+  **Kütüphaneyi yükleme:**
     ```bash
     pip install PyQt5
     ```
 
-3.  **Oyunu Başlatın:**
+  **Oyunu Başlatın:**
     ```bash
     python harf_tahmin.py
     ```
